@@ -2006,7 +2006,7 @@ function Library:CreateWindow(WindowTitle)
         BackgroundColor3 = Color3.new(0, 0, 0);
         BorderSizePixel = 0;
         Position = UDim2.new(0, 175, 0, 50);
-        Size = UDim2.new(0, 300, 0, 400);
+        Size = UDim2.new(0, 500, 0, 600);
         Visible = false;
         ZIndex = 1;
         Parent = ScreenGui;
